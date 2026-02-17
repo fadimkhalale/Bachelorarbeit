@@ -1,4 +1,4 @@
-# Bachelorarbeit – Projekt von Fadi Mkhalale
+# Bachelorarbeit – Projekt von Fadi Mkhalale, B.Sc.
 
 Dieses Repository enthält meine **Bachelorarbeit**, die im Rahmen meines Informatik-Studiums entstanden ist.
 
